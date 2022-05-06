@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>{{t('mainMenu.about')}}</h1>
+    <p> Oleksandr Nykytin </p>
   </div>
 </template>
 <script>
